@@ -1,0 +1,12 @@
+{
+  "contatos": {
+    "pesquisar": "https://api.tiny.com.br/api2/contatos.pesquisa.php"
+  },
+  "pedidos": {
+    "incluir": "https://api.tiny.com.br/api2/pedido.incluir.php",
+    "pesquisar": "https://api.tiny.com.br/api2/pedidos.pesquisa.php"
+  },
+  "tags": {
+    "pesquisar": "https://api.tiny.com.br/api2/tag.pesquisa.php"
+  }
+}
